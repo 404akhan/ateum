@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*comment added by akhan*/
-void akhan_w_strlent()
+void my_w_strlent()
 {
   //some function lala
 }
