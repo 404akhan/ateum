@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+void w_strlent()
+{
+  //some function lala
+}
+
+
 char *my_strcpy(char *t, char *s)
 
 {
