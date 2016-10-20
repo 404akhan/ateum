@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void w_strlent()
+void my_w_strlent()
 {
   //some function lala
 }
